@@ -1,1 +1,1 @@
-web: config.py
+web: app.py
