@@ -1,1 +1,1 @@
-web: genstring.py
+web: app.py
