@@ -1,1 +1,1 @@
-worker: python3 -m DONATE_ARMY_TG_MUSIC_PLAYER
+web: config.py
